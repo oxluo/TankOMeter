@@ -1,0 +1,28 @@
+{
+    "Lua.diagnostics.globals": [
+        "TooltipDataProcessor",
+        "ItemRefTooltip",
+        "ItemRefShoppingTooltip1",
+        "ItemRefShoppingTooltip2",
+        "ShoppingTooltip1",
+        "ShoppingTooltip2",
+        "NORMAL_FONT_COLOR_CODE",
+        "HIGHLIGHT_FONT_COLOR_CODE",
+        "SpellBook_GetSpellBookSlot",
+        "FONT_COLOR_CODE_CLOSE",
+        "PetJournalPetCardPetInfo",
+        "PetBattlePrimaryAbilityTooltip",
+        "SpellBookFrame",
+        "PetJournalPetCard",
+        "SlashCmdList",
+        "InterfaceOptionsFrame_OpenToCategory",
+        "UIDropDownMenu_SetText",
+        "InterfaceOptions_AddCategory",
+        "UIDropDownMenu_SetWidth",
+        "UIDropDownMenu_Initialize",
+        "UIDropDownMenu_AddButton",
+        "GameTooltip_Hide",
+        "UIDropDownMenu_CreateInfo",
+        "GameTooltip_SetDefaultAnchor"
+    ]
+}
